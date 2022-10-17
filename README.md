@@ -1,5 +1,5 @@
 # Project Instructions
-Follow the instructions here: https://vuxcode.netlify.app/2022vt/pr1/lessons/major-project-brief/
+Follow the instructions here: https://vuxcode.netlify.app/new/pr1/lessons/major-project-brief/
 
 REMEMBER TO "COMMIT" YOUR CHANGES REGULARLY TO SHOW HOW YOU HAVE BUILT THIS PROJECT! 
 
